@@ -2,6 +2,4 @@ import streamlit as st
 
 st.write("Alô mundo")
 
-nome = input("Digite seu nome")
-
-print (nome, "el pepe")
+st.write("El Pepe")
